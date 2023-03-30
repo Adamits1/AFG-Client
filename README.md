@@ -2,7 +2,7 @@
 
 AFG Client is a public Minecraft utility hack client meant for hacking on specific Minecraft servers. 
 
-![Logo](https://imgbb.com/][img]https://i.ibb.co/cg1R1CP/New-Project-3-removebg-preview.png)
+![Logo](https://i.ibb.co/cg1R1CP/New-Project-3-removebg-preview.png)
 
 
 ## Installation
